@@ -1,4 +1,4 @@
-# Outbreak-Simulation
+# Outbreak Simulation
 
 A cellular automaton simulating the spread of an epidemic on a grid.
 
@@ -6,7 +6,7 @@ Cells of a grid are healthy, infected, immunized or dead. Infection spreads betw
 
 ## Table of contents
 
-- [Outbreak-Simulation](#outbreak-simulation)
+- [Outbreak Simulation](#outbreak-simulation)
 	- [Table of contents](#table-of-contents)
 	- [How it works](#how-it-works)
 	- [Tech stack](#tech-stack)
